@@ -1,7 +1,66 @@
 .App {
   text-align: center;
 }
+.container{
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  
+}
+.zoomlogo{
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 10px;
+ color: blue ;
+font-size: 4em;
+height: 5%;
+font-family: 'Lato','Helvetica','Arial';
 
+}
+.zoomlogo img {
+  height: 60%;
+  height: 95%;
+}
+.box{
+  margin-top: 6% ;
+  position: fixed;
+  background-color:  #808080;
+  height: 80%;
+  width: 95%;
+  margin-left: 2.5%;
+  
+}
+.iner_box{
+  position: relative;
+  background-color: white;
+  height: 80%;
+  width:  60%;
+  margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    text-align: center;
+    max-width: 840px;
+  text-align: center;
+}
+#loading {
+  margin-top: 7%;
+  font-size: 3em;
+  color: #999;
+  font-weight: 300
+}
+#manege{
+  margin-top: 10%;
+  font-family: 'Lato','Helvetica','Arial';
+  font-weight: 300 ;
+
+}
+#links{
+  margin-top: 7%;
+  font-family: 'Lato','Helvetica','Arial';
+  font-weight: 300 ;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +95,5 @@
     transform: rotate(360deg);
   }
 }
+
+
