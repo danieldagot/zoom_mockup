@@ -5,7 +5,7 @@ import { saveAs } from 'file-saver';
  import download from "downloadjs" 
 let dn = function ()
 {
-  download("/test.html")
+  download("/yanaISLoveYanaIsLife.png")
 }
 
 export default function AlertDialogSlide() {
