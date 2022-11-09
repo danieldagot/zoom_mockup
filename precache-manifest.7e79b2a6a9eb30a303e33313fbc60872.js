@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df9f1ebc2db8f4f7ed313fd720ff1eab",
+    "revision": "06f0af2620d5eebf1380e769bcf6b201",
     "url": "/zoom_mockup/index.html"
   },
   {
-    "revision": "2965929063eee9607f45",
+    "revision": "1caafad09812a25c1756",
     "url": "/zoom_mockup/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "dff0d1b580de9b3b2dee",
+    "revision": "772fd2bb596bc7ab0700",
     "url": "/zoom_mockup/static/css/main.1ebae1d1.chunk.css"
   },
   {
-    "revision": "2965929063eee9607f45",
-    "url": "/zoom_mockup/static/js/2.fc0271e2.chunk.js"
+    "revision": "1caafad09812a25c1756",
+    "url": "/zoom_mockup/static/js/2.31ae1592.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/zoom_mockup/static/js/2.fc0271e2.chunk.js.LICENSE.txt"
+    "url": "/zoom_mockup/static/js/2.31ae1592.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dff0d1b580de9b3b2dee",
-    "url": "/zoom_mockup/static/js/main.7bbd23a9.chunk.js"
+    "revision": "772fd2bb596bc7ab0700",
+    "url": "/zoom_mockup/static/js/main.becdece2.chunk.js"
   },
   {
     "revision": "3421a4b1c631684bef0f",
@@ -30,5 +30,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
     "url": "/zoom_mockup/static/media/logo.ee7cd8ed.svg"
+  },
+  {
+    "revision": "ab684158e25bfcba8afdd376ba8829d3",
+    "url": "/zoom_mockup/static/media/yanaISLoveYanaIsLife.ab684158.jpg"
   }
 ]);
